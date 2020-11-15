@@ -1,5 +1,7 @@
 * render with markstat
 
+* I am pretending this is a new calculation
+
 clear all
 
 cd "/Users/agrogan/Desktop/newstuff/MICS-eliminate-cp"
